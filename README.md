@@ -8,3 +8,5 @@ composer install
 ```
 
 Now open `app/Http/Controllers/HomeController.php` in PhpStorm.
+
+See [https://youtrack.jetbrains.com/issue/WI-45405](https://youtrack.jetbrains.com/issue/WI-45405) for more information.
